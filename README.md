@@ -27,7 +27,7 @@ I am a recent Computer Science graduate most experienced with Python, Javascript
 
 **Capstone Project:** Detecting Epileptic Spikes using a Convolutional Neural Network
 - Developed a CNN and trained models to detect seizures with best final accuracy of 77%.
-<img alt="Capstone Results Poster" src= "../Files/ResultPresentation_EEGspikeCNN (1).svg">
+<img alt="Capstone Results Poster" src= "Files/ResultPresentation_EEGspikeCNN.svg">
 
 ---
 ## 🧰 Languages & Tools
